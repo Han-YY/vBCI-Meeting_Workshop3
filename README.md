@@ -28,8 +28,7 @@ Download All files from: https://github.com/Han-YY/vBCI-Meeting_Workshop3/blob/e
 - Supporting .m programs: EEGfilter.m and EEGsegment.m
 - Other support files: electrodes.mat, channelPositions.mat, Empty.tiff
 - Data: 'Example_data' folder
-Before running the codes, please...
-Before running this script...
-Install EEGLAB from: https://sccn.ucsd.edu/eeglab/download.php
-Download laplacian_perrinX.m from http://mikexcohen.com/lecturelets/laplacian/
+<br>Before running the script, please...
+- Install EEGLAB from: https://sccn.ucsd.edu/eeglab/download.php
+- Download laplacian_perrinX.m from http://mikexcohen.com/lecturelets/laplacian/
 
