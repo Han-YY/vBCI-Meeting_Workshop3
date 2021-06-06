@@ -21,7 +21,7 @@ Neuroscientists, engineers and clinicians are welcome. Participants should have 
 ### Lempel-Ziv complexity for online consciousness detection, Sebastian Halder
 - [**Jupyter Notebook**](https://github.com/Han-YY/vBCI-Meeting_Workshop3/blob/e50b1985644b7726fc45505a172199b66dab6042/SH_Lempel-Ziv%20complexity%20for%20online%20consciousness%20detection/Quick%20tutorial%20on%20importing,%20processing%20and%20visualising%20Wada%20data.ipynb)
 - [**Document**](https://github.com/Han-YY/vBCI-Meeting_Workshop3/blob/e50b1985644b7726fc45505a172199b66dab6042/SH_Lempel-Ziv%20complexity%20for%20online%20consciousness%20detection/Quick%20tutorial%20on%20importing,%20processing%20and%20visualising%20Wada%20data.md.pdf)
-- [**Data (patient1.txt, patient1.set and patient1.fdt)**](https://www.dropbox.com/s/73kbq5k5ft5x5jv/patient1.zip?dl=0)
+- [**Data (patient1.txt, patient1.set and patient1.fdt)**](https://www.dropbox.com/t/HFezAOEePzKoSPKA)
 ### Building a classification model with integrative EEG features, Yiyuan Han
 Download All files from [**this zip file containing all files**](https://github.com/Han-YY/vBCI-Meeting_Workshop3/blob/e50b1985644b7726fc45505a172199b66dab6042/YH_integrative%20EEG%20features/YH_integrative%20EEG%20features.zip)
 - MATLAB live script: vBCI_workshop_InteFea_tutorial.mlx
