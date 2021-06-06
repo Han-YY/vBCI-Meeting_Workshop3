@@ -1,10 +1,10 @@
 # BCI Meeting 2021 Workshop 3: Optimising BCI performance by integrating information on the users internal state
 
 ### Presenters
-Sebastian Halder, University of Essex
-Yiyuan Han, University of Essex
-Angela Riccio, Fondazione Santa Lucia
-Philipp Ziebell, University of Würzburg
+Sebastian Halder, University of Essex. 
+Yiyuan Han, University of Essex. 
+Angela Riccio, Fondazione Santa Lucia. 
+Philipp Ziebell, University of Würzburg. 
 
 ### Abstract
 Brain-computer interface (BCI) performance is known to be sensitive to the internal state of the user, e.g. consciousness, somatosensory state, attention and internal mental processes. For this reason, it is important to quantify the physical and mental state of the user while recording brain activity with the electroencephalogram (EEG). Such information may be beneficial not only to implement a BCI for communication, but also when using EEG technology with healthy users. In this workshop we will discuss the use of biomarkers extracted from the EEG to make inferences about internal states in combination with state-of-the-art active, reactive or passive BCIs. We will also discuss psychological perspectives following the User-Centered Design approach as well as novel machine learning techniques aiming at increasing the benefits of BCI technology for healthy as well as users with disabilities. Participants will learn details about the neurophysiological background of these signals, how improvements of user experience may be quantified and how detection of changes in the state of the user can be implemented technically.
