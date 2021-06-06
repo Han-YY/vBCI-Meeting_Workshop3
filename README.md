@@ -19,16 +19,16 @@ Neuroscientists, engineers and clinicians are welcome. Participants should have 
 
 ## Materials
 ### Lempel-Ziv complexity for online consciousness detection, Sebastian Halder
-- [Jupyter Notebook] (https://github.com/Han-YY/vBCI-Meeting_Workshop3/blob/e50b1985644b7726fc45505a172199b66dab6042/SH_Lempel-Ziv%20complexity%20for%20online%20consciousness%20detection/Quick%20tutorial%20on%20importing,%20processing%20and%20visualising%20Wada%20data.ipynb)
-- [Document] (https://github.com/Han-YY/vBCI-Meeting_Workshop3/blob/e50b1985644b7726fc45505a172199b66dab6042/SH_Lempel-Ziv%20complexity%20for%20online%20consciousness%20detection/Quick%20tutorial%20on%20importing,%20processing%20and%20visualising%20Wada%20data.md.pdf)
-- [Data (patient1.txt, patient1.set and patient1.fdt)] (https://essexuniversity.box.com/s/o876dpwne5orbaj7c57snphdldlxb21c)
+- [**Jupyter Notebook**] (https://github.com/Han-YY/vBCI-Meeting_Workshop3/blob/e50b1985644b7726fc45505a172199b66dab6042/SH_Lempel-Ziv%20complexity%20for%20online%20consciousness%20detection/Quick%20tutorial%20on%20importing,%20processing%20and%20visualising%20Wada%20data.ipynb)
+- [**Document**] (https://github.com/Han-YY/vBCI-Meeting_Workshop3/blob/e50b1985644b7726fc45505a172199b66dab6042/SH_Lempel-Ziv%20complexity%20for%20online%20consciousness%20detection/Quick%20tutorial%20on%20importing,%20processing%20and%20visualising%20Wada%20data.md.pdf)
+- [**Data (patient1.txt, patient1.set and patient1.fdt)**] (https://essexuniversity.box.com/s/o876dpwne5orbaj7c57snphdldlxb21c)
 ### Building a classification model with integrative EEG features, Yiyuan Han
-Download All files from [this zip file containing all files] (https://github.com/Han-YY/vBCI-Meeting_Workshop3/blob/e50b1985644b7726fc45505a172199b66dab6042/YH_integrative%20EEG%20features/YH_integrative%20EEG%20features.zip)
+Download All files from [**this zip file containing all files**] (https://github.com/Han-YY/vBCI-Meeting_Workshop3/blob/e50b1985644b7726fc45505a172199b66dab6042/YH_integrative%20EEG%20features/YH_integrative%20EEG%20features.zip)
 - MATLAB live script: vBCI_workshop_InteFea_tutorial.mlx
 - Supporting .m programs: EEGfilter.m and EEGsegment.m
 - Other support files: electrodes.mat, channelPositions.mat, Empty.tiff
 - Data: 'Example_data' folder
 <br>Before running the script, please...
-- [Install EEGLAB from] (https://sccn.ucsd.edu/eeglab/download.php)
-- [Download laplacian_perrinX.m (which is contained in the zip file] (http://mikexcohen.com/lecturelets/laplacian/)
+- [**Install EEGLAB**] (https://sccn.ucsd.edu/eeglab/download.php)
+- [**Download laplacian_perrinX.m (which is contained in the zip file)**] (http://mikexcohen.com/lecturelets/laplacian/)
 
