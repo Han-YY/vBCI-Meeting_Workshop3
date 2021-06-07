@@ -18,6 +18,7 @@ Neuroscientists, engineers and clinicians are welcome. Participants should have 
 3. Learn how to thoroughly quantify user experience according to the User-Centered Design and its three BCI usability criteria effectiveness, efficiency and satisfaction. This will be illustrated in detail with examples from clinical environments.
 
 ## Materials
+### [Basic User-Centered Design and Motivational Aspects for Study Design, Philipp Ziebell](https://github.com/Han-YY/vBCI-Meeting_Workshop3/tree/main/PZ_UCD-principles-with-example)
 ### Lempel-Ziv complexity for online consciousness detection, Sebastian Halder
 - [**Jupyter Notebook**](https://github.com/Han-YY/vBCI-Meeting_Workshop3/blob/e50b1985644b7726fc45505a172199b66dab6042/SH_Lempel-Ziv%20complexity%20for%20online%20consciousness%20detection/Quick%20tutorial%20on%20importing,%20processing%20and%20visualising%20Wada%20data.ipynb)
 - [**Document**](https://github.com/Han-YY/vBCI-Meeting_Workshop3/blob/e50b1985644b7726fc45505a172199b66dab6042/SH_Lempel-Ziv%20complexity%20for%20online%20consciousness%20detection/Quick%20tutorial%20on%20importing,%20processing%20and%20visualising%20Wada%20data.md.pdf)
